@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/wagner-coldtag/interface/static/css/main.07a6e487.css",
-    "main.js": "/wagner-coldtag/interface/static/js/main.263a0244.js",
-    "static/media/Logo.png": "/wagner-coldtag/interface/static/media/Logo.614f534b49822f846bf7.png",
-    "index.html": "/wagner-coldtag/interface/index.html",
-    "main.07a6e487.css.map": "/wagner-coldtag/interface/static/css/main.07a6e487.css.map",
-    "main.263a0244.js.map": "/wagner-coldtag/interface/static/js/main.263a0244.js.map"
+    "main.css": "/interface/static/css/main.07a6e487.css",
+    "main.js": "/interface/static/js/main.5ce382f3.js",
+    "static/media/Logo.png": "/interface/static/media/Logo.614f534b49822f846bf7.png",
+    "index.html": "/interface/index.html",
+    "main.07a6e487.css.map": "/interface/static/css/main.07a6e487.css.map",
+    "main.5ce382f3.js.map": "/interface/static/js/main.5ce382f3.js.map"
   },
   "entrypoints": [
     "static/css/main.07a6e487.css",
-    "static/js/main.263a0244.js"
+    "static/js/main.5ce382f3.js"
   ]
 }
